@@ -1,0 +1,269 @@
+body {
+
+    font-weight: bold
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+
+
+
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1.1s ease;
+    opacity: 1;
+
+
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif inherit bold;
+
+
+    box-sizing: border-box;
+    box-shadow: 0 0 50px 5 rgba(0,0,0, 2);
+    width: 450px;
+    padding: 50px;
+    background: #C8C8C8;
+    border-radius: 40px;
+    box-shadow: 0 0 50px 0 rgba(0,0,0, 2);
+
+
+    margin: auto;
+    box-sizing: border-box;
+    box-shadow: 0 0 50px 5 rgba(0,0,0, 2);
+    background: white;
+
+
+
+
+    width: 450px;
+    padding: 50px;
+    background: linear-gradient(to right, #e2e2e2,
+    #c9d6ff);
+    border-radius: 40px;
+    box-shadow: 0 0 50px 0 rgba(0,0,0, 2);
+
+
+    margin: auto;
+    margin-top: 130px;
+    margin-left: center;
+
+
+    margin: auto;
+    margin-top: 130px;
+    margin-left: center;
+
+}
+
+
+.email{
+
+    position: relative;
+    top: 0px;
+    right: 0px;
+    width: 50px;
+    height: 55px;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+input#email:hover{
+
+    position: relative;
+    top: 1px;
+    right: 30px;
+    width: 400px;
+    height: 50px;
+    font-weight: bold;
+    margin: 0 auto;
+
+    border-radius: 50%;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 10);
+    transition: background-color 0.40s ease;
+    outline: none;
+    color: black;
+
+    font-size: 20px;
+    font-weight: 900;
+
+    border-radius: 10px;
+    padding: 3px 0px;
+    cursor: text;
+    transition: background-color 0.50s ease;
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+
+    placeholder-place: relative;
+    padding: 0px 10px;
+    background: magenta;
+    border: none;
+
+    color: black;
+    transition: background-color 0.50s ease;
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+
+    background: magenta;
+    border: auto;
+    color: black;
+    transition: background-color 0.50s ease;
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+.password.password{
+    position: relative;
+    top: 20px;
+    right: 0px;
+    width: 400px;
+    height: 55px;
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+}
+input#password:hover {
+    position: relative;
+    input#password:checked
+    top: 5px;
+    right: 30px;
+    width: 415px;
+    height: 50px;
+    font-weight: bold;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 10);
+    transition: background-color 0.40s ease;
+    outline: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: white;
+    border-radius: 10px;
+    cursor: text;
+    transition: background-color 0.50s ease;
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+    placeholder-place: relative;
+    background: magenta;
+    border: none;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.50s ease;
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+    background: magenta;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+
+
+.register-link {
+    position: relative;
+    top: 10px;
+    right: 0px;
+    width: 300px;
+    height: 55px;
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+}
+input#register-link:hover {
+    position: relative;
+    top: 10px;
+    right: 30px;
+    width: 400px;
+
+    height: 50px;
+    font-weight: bold;
+
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 10);
+
+}
+
+
+.submit.button input{
+
+    position: relative;
+    top: 30px;
+    left: 140px;
+    width: 60px;
+    height: 30px;
+
+    font-weight: bold italic;
+    font-size: 15px;
+    font-weight: bold;
+
+    background: cyan;
+    border: none;
+    color: black;
+
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+    transition: background-color 0.40s ease;
+    outline: auto;
+
+    background: cyan;
+    border: auto;
+    color: black;
+    transition: background-color 0.40s ease;
+    outline: auto;
+
+    background: cyan;
+    border: auto;
+    color: black;
+    cursor: pointer;
+
+}
+.submit.button input:hover{
+
+    position: relative;
+    top: 30px;
+    left: 140px;
+    width: 60px;
+    height: 30px;
+
+    font-weight: bold;
+    font-size: 15px;
+
+    outline: auto;
+    outline-width: 5px;
+    outline-color: gray;
+    outline-style: solid;
+    outline-radius: 5px;
+    outline-offset: 5px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 100);
+
+    background: gray;
+    box-sizing: auto;
+
+    border-radius : 15px; border : 20px solid
+
+    margin: auto;
+    margin-top: 0px;
+    margin-left: center;
+    cursor: pointer;
+
+}
+
+
+/* =================================================================
+/* Created by "Mohamed Gamal"
+/* created on 4/12/2024

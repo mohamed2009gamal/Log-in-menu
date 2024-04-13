@@ -1,0 +1,83 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="Helvetica" />
+            <item index="1" class="java.lang.String" itemvalue="href" />
+            <item index="2" class="java.lang.String" itemvalue="target" />
+            <item index="3" class="java.lang.String" itemvalue="placeholder" />
+            <item index="4" class="java.lang.String" itemvalue="src" />
+            <item index="5" class="java.lang.String" itemvalue="open" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="27">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="ico" />
+            <item index="7" class="java.lang.String" itemvalue="div" />
+            <item index="8" class="java.lang.String" itemvalue="p" />
+            <item index="9" class="java.lang.String" itemvalue="h1_1" />
+            <item index="10" class="java.lang.String" itemvalue="img" />
+            <item index="11" class="java.lang.String" itemvalue="h1" />
+            <item index="12" class="java.lang.String" itemvalue="hr" />
+            <item index="13" class="java.lang.String" itemvalue="h5" />
+            <item index="14" class="java.lang.String" itemvalue="head" />
+            <item index="15" class="java.lang.String" itemvalue="label_2" />
+            <item index="16" class="java.lang.String" itemvalue="label_1" />
+            <item index="17" class="java.lang.String" itemvalue="br" />
+            <item index="18" class="java.lang.String" itemvalue="form_1" />
+            <item index="19" class="java.lang.String" itemvalue="c" />
+            <item index="20" class="java.lang.String" itemvalue="d" />
+            <item index="21" class="java.lang.String" itemvalue="f" />
+            <item index="22" class="java.lang.String" itemvalue="a_Facebook" />
+            <item index="23" class="java.lang.String" itemvalue="h3" />
+            <item index="24" class="java.lang.String" itemvalue="strong" />
+            <item index="25" class="java.lang.String" itemvalue="h4" />
+            <item index="26" class="java.lang.String" itemvalue="style" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlWrongAttributeValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E303" />
+          <option value="E265" />
+          <option value="E211" />
+          <option value="E302" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="input" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Clock.script" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
